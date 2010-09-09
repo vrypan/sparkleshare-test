@@ -1,9 +1,0 @@
-An this is one more file.
-
-We make same edits here, remotely. Make sure you keep an eye on the SparkleShare daemon logs at the bottom of the screen :-)
-
-Changes synced!
-
-This thing works great!
-
-Visit: http://sparkeshare.org.

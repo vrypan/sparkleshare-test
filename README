@@ -1,1 +1,5 @@
 We start with an empty file, on the git server.
+
+OK. Let's make some "local" changes to the file.
+
+BTW, keep an eye on the SparkleShare daemon logs at the bottom of the screen...
